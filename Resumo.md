@@ -8,7 +8,7 @@
 Os algoritmos são expressos diretamente em linguagem natural. Ex: Receitas de cozinha.
 ### Fluxograma Convencional:
 É uma representação gráfica de algoritmos onde formas geométricas distintas implicam ações (instruções, comandos) diferentes. Ex:
-imagem
+![Fluxograma](https://github.com/ERONILDOJUNIOR/AlgoritmosEstruturaDeDados/blob/main/imagens/Captura%20de%20tela%202022-01-03%20202135.png)
 ### Pseudocódigo:
 Esta forma de representação de algoritmos é rica em detalhes, como a definição dos tipos das variáveis utilizadas no algoritmo. Ex: 
-imagem
+![algoritmo](https://github.com/ERONILDOJUNIOR/AlgoritmosEstruturaDeDados/blob/main/imagens/Captura%20de%20tela%202022-01-03%20202304.png)
