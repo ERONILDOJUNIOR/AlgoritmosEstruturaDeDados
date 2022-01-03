@@ -4,8 +4,11 @@
 ### À especificação da sequência ordenada de passos que deve ser seguida para a realização de uma tarefa, garantindo a sua repetibilidade.
 ## Formas de apresentação:
 ### Existem diversas formas de representação de algoritmos.
-### Descrição Narrativa: Os algoritmos são expressos diretamente em linguagem natural. Ex: Receitas de cozinha.
-### Fluxograma Convencional: É uma representação gráfica de algoritmos onde formas geométricas distintas implicam ações (instruções, comandos) diferentes. Ex:
+### Descrição Narrativa:
+Os algoritmos são expressos diretamente em linguagem natural. Ex: Receitas de cozinha.
+### Fluxograma Convencional:
+É uma representação gráfica de algoritmos onde formas geométricas distintas implicam ações (instruções, comandos) diferentes. Ex:
 imagem
-### Pseudocódigo: Esta forma de representação de algoritmos é rica em detalhes, como a definição dos tipos das variáveis utilizadas no algoritmo. Ex: 
+### Pseudocódigo:
+Esta forma de representação de algoritmos é rica em detalhes, como a definição dos tipos das variáveis utilizadas no algoritmo. Ex: 
 imagem
