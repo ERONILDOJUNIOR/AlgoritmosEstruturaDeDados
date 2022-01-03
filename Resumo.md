@@ -20,4 +20,5 @@
 ### O tipo de dados literal é constituído por uma sequência de caracteres contendo letras, dígitos e/ou símbolos especiais. Este tipo de dados é também muitas vezes chamado de alfanumérico, cadeia (ou cordão) de caracteres, ainda, do inglês, string.
 ## Dados Lógicos:  
 ### É usado para representar dois únicos valores lógicos possíveis: verdadeiro e falso. É comum encontrar-se em outras referências outros tipos de pares de valores lógicos como sim/não, 1/0, true/false.
-
+### Em Síntese:
+![sintese](https://github.com/ERONILDOJUNIOR/AlgoritmosEstruturaDeDados/blob/main/imagens/sintese.png)
