@@ -21,4 +21,4 @@
 ## Dados Lógicos:  
 ### É usado para representar dois únicos valores lógicos possíveis: verdadeiro e falso. É comum encontrar-se em outras referências outros tipos de pares de valores lógicos como sim/não, 1/0, true/false.
 ### Em Síntese:
-![sintese](https://github.com/ERONILDOJUNIOR/AlgoritmosEstruturaDeDados/blob/main/imagens/sintese.png)
+![sintese](https://github.com/ERONILDOJUNIOR/AlgoritmosEstruturaDeDados/blob/main/imagens/Captura%20de%20tela%202022-01-03%20203507.png)
